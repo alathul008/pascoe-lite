@@ -1,0 +1,1 @@
+Screenshots of the local Streamlit demo are included in the project materials. The repository intentionally contains only synthetic demo telemetry and no credentials.
