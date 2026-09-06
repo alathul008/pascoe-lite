@@ -84,7 +84,7 @@ python -m venv .venv
 Windows:
 
 ```powershell
-.venv\Scripts\activate
+.venv\\Scripts\\activate
 ```
 
 Linux/macOS:
@@ -114,13 +114,13 @@ The app asks for the Gemini API key at runtime, so the key is not stored in the 
 ## Screenshots
 
 ### UPI timeout
-![UPI timeout demo](screenshots/upi-timeout.png)
+![UPI timeout demo](screenshots/Screenshot%20%28426%29.png)
 
 ### Insufficient funds
-![Insufficient funds demo](screenshots/insufficient-funds.png)
+![Insufficient funds demo](screenshots/Screenshot%20%28427%29.png)
 
 ### OTP drop-off
-![OTP drop-off demo](screenshots/otp-dropoff.png)
+![OTP drop-off demo](screenshots/Screenshot%20%28428%29.png)
 
 ## Tech stack
 
